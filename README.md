@@ -4,17 +4,29 @@
 
 This project uses Artificial Intelligence and facial recognition technology to automatically record student attendance. The system detects and recognizes registered students from images or live video feeds, marks attendance automatically, reduces manual effort, improves accuracy, and prevents proxy attendance.
 
-## Problem
+## Background
 
-Traditional attendance systems are time-consuming and prone to human errors.
+Manual attendance systems are time-consuming and prone to errors.
 
-## Solution
+## How is it used?
 
-An AI-powered attendance system that uses computer vision and facial recognition to identify students and record attendance automatically.
+The system captures student images, identifies registered students, and automatically marks attendance.
 
-## Benefits
+## Data Sources and AI Methods
 
-- Saves time
-- Improves accuracy
-- Prevents proxy attendance
-- Maintains digital records
+- Facial images of students
+- Computer Vision
+- Facial Recognition
+- Machine Learning
+
+## Challenges
+
+- Privacy concerns
+- Lighting conditions
+- Face recognition accuracy
+
+## What next?
+
+- Mobile application integration
+- Cloud database support
+- Real-time attendance analytics
